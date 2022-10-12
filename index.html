@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Title Image-->
+    <div class="titleimg"><img src="images/animalcrossingtitle.png"></div>
+    
+    <!-- Subtitle-->
+    <div class = "subtitle" ><h2>New Passwords!</h2></div>
+    
+    <!-- Main Box & Isabelle -->
+    <div class="mainboxisabelle">
+        <!-- Main Box -->
+        <div class="emptybox">
+
+        </div>
+        <div class="mainbox">
+             <!-- Your New Password -->
+            <div class="yournewpassword">"Your new password is..."</div>
+             <!-- Password Box -->
+            <div class="passwordbox"></div>
+            <!-- Button -->
+            <div class="buttons">
+                <button onclick="createPassword()" id="generatebutton">Generate a Password</button>
+                <button onclick="copyPassword()" id="copybutton">Copy</button></div>
+        </div>
+        <!-- Isabelle -->
+        <div class = "isabelle">
+            <div><img src="images/isabelle.png"></div>
+        </div>
+    </div>
+    </div>
+
+    <!-- Password Tips -->
+    <div class="passwordtips">
+    </div>
+
+    <script src = "app.js">
+    </script>
+</body>
+</html>
