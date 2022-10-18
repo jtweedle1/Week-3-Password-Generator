@@ -7,7 +7,7 @@
 </p>
 
 ## Description ##
-This project was created for the purpose of putting our JavaScript knowledge into practice. The best way to get better at coding is to do just that - code, over and over again! I learned about multiple aspects of JavaScript, including some new functions like Math.floor() and Math.random() that assisted with creating the "random factor" for generating the password. The website is full responsive and adjusts to the viewport, along with a user being able to generate a password according to the class specifications.
+This project was created for the purpose of putting our JavaScript knowledge into practice. The best way to get better at coding is to do just that - code, over and over again! I learned about multiple aspects of JavaScript, including some new functions like Math.floor() and Math.random() that assisted with creating the "random factor" for generating the password. The website is fully responsive and adjusts to the viewport, along with a user being able to generate a password according to the class specifications with several types of characters.
 
 ## Features ##
 * Responsive web design that changes depending on screen size
