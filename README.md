@@ -16,7 +16,7 @@ This project was created for the purpose of putting our JavaScript knowledge int
 * Includes uppercase, lowercase, numeric, and special characters as options
 
 ## Installation ##
-The website can be viewed here: [Jazmin's Password Generator](insert link)
+The website can be viewed here: [Jazmin's Password Generator](https://jtweedle1.github.io/Week-3-Password-Generator/)
 
 General project installation instructions:
 1. Make sure that you have the following programs installed: web browser, VS Code, Git Bash or Mac equivalent.
