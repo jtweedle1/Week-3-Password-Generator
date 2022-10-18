@@ -3,7 +3,7 @@
 ## Screenshot ##
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jtweedle1/Week-2-Portfolio/main/images/pictureofportfolio.png"/>
+  <img src="https://raw.githubusercontent.com/jtweedle1/Week-3-Password-Generator/main/screenshot.png"/>
 </p>
 
 ## Description ##
